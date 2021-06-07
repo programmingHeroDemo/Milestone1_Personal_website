@@ -67,6 +67,12 @@ section {
     font-weight: bolder;
 }
 
+.link-button:hover {
+    border-radius: 30px;
+    box-shadow: 5px 15px 20px rgb(78, 116, 78);
+
+}
+
 .half-width {
     width: 40%;
     float: left;
